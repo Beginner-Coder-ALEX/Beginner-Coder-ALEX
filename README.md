@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on Portfolio Websites:
 - Web Dev Tutorials: 
 - 📫 How to reach me  EMAIL➡📧mubeenahmad0670677@gmail.com💌
-- 😄 Pronouns: ...
+- 😄 Pronouns    :male
 - ⚡ Fun fact: ...
 
 <!---
