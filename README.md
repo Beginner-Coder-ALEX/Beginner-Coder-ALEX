@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Beginner-Coder-ALEX
-- 👀 I’m interested in 🤝Networking🌐 ,
+- 👀 I’m interested in 🤝Networking🌐 ,⤵
 - 👩🏻‍💻Coding</>,
 - Team work👥,
 - ❤️🏏 cricket🙋🏻‍♂️,
