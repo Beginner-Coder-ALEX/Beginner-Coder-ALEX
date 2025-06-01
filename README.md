@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @Beginner-Coder-ALEX
 - 👀 I’m interested in 🤝Networking🌐 ,⤵
 - 👩🏻‍💻Coding</>,
-- Team work👥,
+- Teamwork 👥,
 - ❤️🏏 cricket🙋🏻‍♂️,
 - 🌱 I’m currently learning 🌐 WEb Devlopment 👩🏻‍💻
 - 💞️ I’m looking to collaborate on Portfolio Websites:
 - Web Dev Tutorials: 
 - 📫 How to reach me  EMAIL➡📧mubeenahmad0670677@gmail.com💌
-- 😄 Pronouns    :male
+- 😄 Pronouns    : male
 - ⚡ Fun fact: ...
 
 <!---
